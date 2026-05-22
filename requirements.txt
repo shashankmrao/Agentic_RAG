@@ -8,3 +8,13 @@ langchain_huggingface
 tiktoken
 chromadb
 langchain_google_genai
+python-dotenv
+langsmith
+torchvision==0.17.2
+torch==2.2.2
+scikit-learn==1.4.2
+rank-bm25==0.2.2
+numpy==1.26.4
+scipy==1.11.4
+sentence-transformers==2.7.0
+transformers>=4.41.0
