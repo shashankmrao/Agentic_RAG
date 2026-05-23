@@ -18,3 +18,5 @@ numpy==1.26.4
 scipy==1.11.4
 sentence-transformers==2.7.0
 transformers>=4.41.0
+bs4
+flashrank
