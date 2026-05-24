@@ -1,10 +1,11 @@
 langgraph
-langchain 
+langchain
+langchain-core 
 langchain_community 
 langchainhub
 ipykernel
 langchain_groq
-langchain_huggingface
+langchain-huggingface
 tiktoken
 chromadb
 langchain_google_genai
@@ -17,7 +18,7 @@ rank-bm25==0.2.2
 numpy==1.26.4
 scipy==1.11.4
 sentence-transformers==2.7.0
-transformers>=4.41.0
+transformers==4.41.2
 bs4
 flashrank
 langchain_tavily
